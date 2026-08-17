@@ -7,7 +7,7 @@ Building modern, responsive, and interactive web experiences...
 
 
 # 💫 About Me:
-About me<br><br>Competitive Programmer<br>Focused on C++, Python <br>Exploring modern web technologies<br>
+About me<br><br>Competitive Programmer, Problem Solver <br>Focused on C++, Python <br>Exploring modern web technologies<br>
 
 
 ## 🌐 Socials:
